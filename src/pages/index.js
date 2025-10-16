@@ -44,16 +44,16 @@ export default function Home() {
             </a>
             ,<br />
             Manage account:{" "}
-            <a href="https://api.tophathack/manage" target="_blank" rel="noreferrer noopener">
+            <a href="https://api.tophathack.com/manage" target="_blank" rel="noreferrer noopener">
               Portal
             </a>
             ,<br />
             Purchase:{" "}
-            <a href="https://api.tophathack/purchase/monthly" target="_blank" rel="noreferrer noopener">
+            <a href="https://api.tophathack.com/purchase/monthly" target="_blank" rel="noreferrer noopener">
               Monthly
             </a>{" "}
             |{" "}
-            <a href="https://api.tophathack/purchase/one-time" target="_blank" rel="noreferrer noopener">
+            <a href="https://api.tophathack.com/purchase/one-time" target="_blank" rel="noreferrer noopener">
               Lifetime
             </a>
             ,<br />
