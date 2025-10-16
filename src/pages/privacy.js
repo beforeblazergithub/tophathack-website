@@ -1,5 +1,12 @@
+import Head from "next/head";
+
 export default function PrivacyPolicy() {
   return (
+    <>
+      <Head>
+        <title>Privacy Policy | TopHatHack</title>
+      </Head>
+
     <main className="container legal">
       <h1>Privacy Policy</h1>
       <p>Effective Date: October 2025</p>
@@ -86,5 +93,6 @@ export default function PrivacyPolicy() {
         </p>
       </section>
     </main>
+  </>
   );
 }
